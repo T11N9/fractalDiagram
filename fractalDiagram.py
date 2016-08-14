@@ -1,7 +1,7 @@
 import turtle
 
 def draw_zigzag(object1):
-    for i3 in range(0, 2):       
+    for i in range(0, 2):       
         object1.forward(20)
         object1.right(60)
         object1.backward(20)
